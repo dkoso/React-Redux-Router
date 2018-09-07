@@ -1,0 +1,39 @@
+.header {
+    justify-content: center;
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #348AA7; /* was #ddd */
+    border-radius: 10px;
+}
+
+.ticket-input {
+    /* background-color: #348AA7; */
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #348AA7;
+    border-radius: 10px;
+}
+
+.ticket-ouput {
+    /* background-color: #77ACA2; */
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #348AA7;
+    border-radius: 10px;
+}
+
+.ticket-list-detail {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #348AA7; /* was #ddd */
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.update-delete-button {
+    padding-right: 10px;
+}
+
+.table {
+    text-align: center;
+}
